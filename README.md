@@ -1,4 +1,7 @@
 # discordweb
+
+New Version = https://github.com/Emircnyld/discordweb_v1
+
 Simple and useful discord server stats for websites. It looks like LGSL. I used Bootstrap for a good view.
 
 It is my first project at github so your ideas are for important for me.
